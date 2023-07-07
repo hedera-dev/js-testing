@@ -28,7 +28,7 @@ None.
 
 TODO
 
-How to contriute to this project:
+How to contribute to this project:
 
 - Create a fork of this repo on github
 - Clone that forked copy using github

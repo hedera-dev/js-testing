@@ -1,0 +1,25 @@
+{
+  "name": "tutorial-js-testing",
+  "version": "0.0.0",
+  "description": "A demo repo for a javascript testing tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './**/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedera-dev/js-testing.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "bguiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hedera-dev/js-testing/issues"
+  },
+  "homepage": "https://github.com/hedera-dev/js-testing#readme",
+  "devDependencies": {
+    "mocha": "10.2.0"
+  }
+}
